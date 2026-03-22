@@ -31,8 +31,8 @@ Stop trading on emotion. Start trading on evidence. TradeFlowFX is the only trad
 - 📥 **Broker CSV import** — MT4, MT5, cTrader, IBKR, TradingView auto-detected
 - 🔒 **Private by default** — offline, no tracking, no telemetry, no subscription
 
-**Platform:** macOS & Windows · **Price:** Free plan + $49 one-time  
-[→ Download Free](https://tradeflow-app.com) · [→ Learn More](https://tradeflow-app.com)
+**Platform:** macOS & Windows ·
+[→ Learn More](https://tradeflow-app.com)
 
 ---
 
