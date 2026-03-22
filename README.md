@@ -55,5 +55,5 @@ Follow this org or check [ayra-labs.com](https://ayra-labs.com) for updates.
 ---
 
 <div align="center">
-  <sub>Founded by <strong>Janet Le</strong> · Former Tech Lead, UOB · Singapore · © 2026 Ayra Labs</sub>
+  <sub>Founded by <strong>Janet Le</strong> · Former Tech Lead, Singapore · © 2026 Ayra Labs</sub>
 </div>
