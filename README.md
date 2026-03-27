@@ -18,7 +18,7 @@ Ayra Labs is a solo software studio. No venture capital, no growth-at-all-costs.
 
 ## 🚀 Products
 
-### [TradeFlowFX](https://tradeflow-app.com) — `Live`
+### [TradeFlowFX](https://tradeflowfx.app) — `Live`
 
 > TradeFlowFX is a native desktop application designed for professional traders to master their psychology and performance.
 
@@ -32,7 +32,7 @@ Stop trading on emotion. Start trading on evidence. TradeFlowFX is the only trad
 - 🔒 **Private by default** — offline, no tracking, no telemetry, no subscription
 
 **Platform:** macOS & Windows ·
-[→ Learn More](https://tradeflow-app.com)
+[→ Learn More](https://tradeflowfx.app)
 
 ---
 
